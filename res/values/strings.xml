@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MacTajm</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="links">Links</string>
+    <string name="texts">Texts</string>
+    <string name="url">https://www.mctime.se/</string>
+    <string name="mainPage">admin.asp</string>
+    <string name="region">kolumn2</string>
+    <string name="city">kolumn4</string>
+    <string name="resturant">kolumn3</string>
+
+</resources>
